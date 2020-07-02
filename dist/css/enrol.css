@@ -1,0 +1,168 @@
+.BG-img {
+  width: 100%;
+  height: 554px;
+  background: url(../img/BJ.jpg) no-repeat center center; }
+
+.BG-img-1 {
+  width: 1190px;
+  height: 554px;
+  margin: auto;
+  position: relative; }
+
+.nreg_zc {
+  width: 378px;
+  height: 480px;
+  background-color: #fff;
+  margin-top: 50px;
+  margin-right: 123px; }
+
+.nreg_zc li > a {
+  color: #fff; }
+
+.tab_head {
+  width: 348px;
+  height: 41px;
+  border-bottom: 1px solid #f3f3f3;
+  margin: 24px 15px 0 15px; }
+
+.tab_head li {
+  float: left;
+  width: 123px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 12px; }
+
+.tab_head li:nth-child(1) {
+  background-color: silver;
+  margin-left: 53px;
+  margin-right: 5px; }
+
+.tab_head li:nth-child(2) {
+  background-color: #000; }
+
+.nreg_form1 {
+  width: 318px;
+  height: 427px;
+  padding-top: 30px;
+  margin: 0 15px; }
+
+.nreg_form1 {
+  width: 338px;
+  height: 66px; }
+
+.nreg_input_bg-2 {
+  width: 330px;
+  height: 38px;
+  border: 1px solid;
+  margin-left: 10px; }
+
+.nreg_input {
+  height: 38px;
+  width: 235px;
+  border: 0;
+  margin-left: 19px;
+  outline: none; }
+
+.nreg_input_bg-2 > label {
+  width: 60px;
+  height: 38px;
+  font-size: 12px;
+  line-height: 38px;
+  margin-left: 8px; }
+
+.nreg_input_dt {
+  width: 330px;
+  height: 28px; }
+
+.nreg_input_bg-4 {
+  width: 330px;
+  height: 38px;
+  border: 1px solid;
+  margin-left: 10px; }
+
+.nreg_input-3 {
+  height: 38px;
+  width: 240px;
+  border: 0;
+  margin-left: 50px;
+  outline: none; }
+
+.nreg_input_bg-4 > label {
+  width: 60px;
+  height: 38px;
+  font-size: 12px;
+  line-height: 38px;
+  margin-left: 8px; }
+
+.nreg_input_dt-3 {
+  width: 330px;
+  height: 28px; }
+
+.nreg_mima {
+  width: 330px;
+  height: 68px; }
+
+.nreg_input_bg-5 {
+  width: 330px;
+  height: 38px;
+  border: 1px solid;
+  margin-left: 10px; }
+
+.nreg_input-4 {
+  height: 38px;
+  width: 240px;
+  border: 0;
+  outline: none; }
+
+.nreg_input_bg-5 > label {
+  width: 60px;
+  height: 38px;
+  font-size: 12px;
+  line-height: 38px;
+  margin-left: 8px; }
+
+.nreg_input_dt-4 {
+  width: 240px;
+  height: 28px; }
+
+.nreg_mimas {
+  width: 330px;
+  height: 68px; }
+
+.che-p {
+  font-size: 12px;
+  margin-left: 52px;
+  color: silver; }
+
+.che-p a {
+  color: silver; }
+
+.Que-inp input {
+  width: 312px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 16px;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 10px;
+  background-color: #000;
+  color: #fff; }
+
+.footer-t {
+  width: 100%;
+  height: 40px; }
+
+.footer-t-2 {
+  width: 1190px;
+  height: 40px;
+  margin: auto;
+  font-size: 12px;
+  line-height: 40px;
+  text-align: center; }
+
+.footer-t-2 > p {
+  margin-top: 10px; }
+
+.footer-t-2 a {
+  color: silver; }

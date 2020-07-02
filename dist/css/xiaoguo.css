@@ -1,0 +1,249 @@
+.head-1 li:nth-child(1) {
+  position: relative; }
+
+.abo {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 50px;
+  left: -50px;
+  text-align: center;
+  font-size: 12px;
+  display: none;
+  border: 1px solid silver; }
+
+.abo > img {
+  width: 120px;
+  height: 120px; }
+
+.head-1 li:hover .abo {
+  display: block; }
+
+.abo-1 {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 50px;
+  left: 120px;
+  text-align: center;
+  font-size: 12px;
+  display: none;
+  border: 1px solid silver; }
+
+.abo-1 > img {
+  width: 120px;
+  height: 120px; }
+
+.head-1 li:hover .abo-1 {
+  display: block; }
+
+.head-2 li {
+  position: relative; }
+
+.abo-2 {
+  position: absolute;
+  width: 210px;
+  height: 180px;
+  border: 1px solid silver;
+  top: 42px;
+  right: -10px;
+  color: #666;
+  font-size: 12px;
+  background-color: #fff;
+  display: none; }
+
+.abo-2 p {
+  border-bottom: 1px solid silver;
+  width: 210px;
+  height: 35px;
+  font-size: 12px; }
+
+.abo-2 a {
+  display: block;
+  margin-left: 6px;
+  color: #666; }
+
+.head-2 li:hover .abo-2 {
+  display: block; }
+
+.nav-container li:hover .aa1 {
+  border-bottom: 2px solid; }
+
+.logo-container {
+  position: relative; }
+
+.head-2 a:hover {
+  color: #666; }
+
+.redbox {
+  position: absolute;
+  width: 100%;
+  height: 340px;
+  background-color: #fff;
+  top: 218px;
+  left: 0;
+  z-index: 9999;
+  display: none; }
+
+.redbox-1 a {
+  font-size: 12px; }
+
+.redbox > dl {
+  width: 140px; }
+
+.redbox dl:nth-child(1) {
+  margin-left: 140px;
+  margin-right: 80px; }
+
+.redbox dl:nth-child(3) {
+  margin-left: 84px;
+  margin-right: 70px; }
+
+.redbox dl:nth-child(4) {
+  margin-left: 84px;
+  margin-right: 80px; }
+
+.redbox-2 {
+  position: absolute;
+  width: 100%;
+  height: 340px;
+  background-color: #fff;
+  top: 218px;
+  left: 0;
+  z-index: 9999;
+  display: none; }
+
+.redbox-2 > dl {
+  width: 140px; }
+
+.redbox-2 dl:nth-child(1) {
+  margin-left: 140px;
+  margin-right: 110px; }
+
+.redbox-2 dl:nth-child(3) {
+  margin-left: 60px; }
+
+.redbox-3 {
+  position: absolute;
+  width: 100%;
+  height: 340px;
+  background-color: #fff;
+  top: 218px;
+  left: 0;
+  z-index: 9999;
+  display: none; }
+
+.redbox-3 > dl {
+  width: 140px; }
+
+.redbox-3 dl:nth-child(1) {
+  margin-left: 140px;
+  margin-right: 110px; }
+
+.redbox-3 dl:nth-child(3) {
+  margin-left: 100px;
+  margin-right: 40px; }
+
+.redbox-4 {
+  position: absolute;
+  width: 100%;
+  height: 240px;
+  background-color: #fff;
+  top: 218px;
+  left: 0;
+  z-index: 9999;
+  display: none; }
+
+.redbox-4 > dl {
+  width: 140px; }
+
+.redbox-4 dl:nth-child(1) {
+  margin-left: 140px;
+  margin-right: 20px; }
+
+.redbox-4 dl:nth-child(3) {
+  margin-left: 50px;
+  margin-right: 10px; }
+
+.redbox-5 {
+  position: absolute;
+  width: 100%;
+  height: 360px;
+  background-color: #fff;
+  top: 218px;
+  left: 0;
+  z-index: 9999;
+  display: none; }
+
+.redbox-5 > dl {
+  width: 140px; }
+
+.redbox-5 dl:nth-child(1) {
+  margin-left: 140px;
+  margin-right: 20px; }
+
+.redbox-5 dl:nth-child(3) {
+  margin-left: 50px;
+  margin-right: 10px; }
+
+.redbox-6 {
+  position: absolute;
+  width: 100%;
+  height: 360px;
+  background-color: #fff;
+  top: 218px;
+  left: 0;
+  z-index: 9999;
+  display: none; }
+
+.redbox-6 > dl {
+  width: 140px; }
+
+.redbox-6 dl:nth-child(1) {
+  margin-left: 140px;
+  margin-right: 120px; }
+
+.redbox-6 dl:nth-child(2) {
+  margin-right: 50px; }
+
+.brand-box-1 > li {
+  position: relative; }
+
+.zhezhao {
+  width: 315px;
+  height: 402px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #333333;
+  opacity: 0.6;
+  display: none; }
+
+.zhezhao > img {
+  margin-top: 50%; }
+
+.brand-box-1 > li:hover .zhezhao {
+  display: block; }
+
+.brand-box-2 > li {
+  position: relative; }
+
+.brand-box-2 > li:hover .zhezhao {
+  display: block; }
+
+.zhezhao-2 {
+  width: 231px;
+  height: 250px;
+  background-color: #333333;
+  opacity: 0.6;
+  text-align: center;
+  line-height: 250px;
+  color: #fff;
+  font-size: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none; }
+
+.video-img-four li:hover .zhezhao-2 {
+  display: block; }

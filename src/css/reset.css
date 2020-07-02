@@ -1,0 +1,24 @@
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, form, input, fieldset, legend, img, select {
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal; }
+
+ul, ol, li {
+  list-style: none; }
+
+b, strong {
+  font-weight: normal; }
+
+em, i {
+  font-style: normal; }
+
+a, u {
+  text-decoration: none; }
+
+img {
+  border: 0; }
+
+input {
+  outline: none; }

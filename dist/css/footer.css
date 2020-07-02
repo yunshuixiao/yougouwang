@@ -1,0 +1,142 @@
+.footer {
+  width: 100%;
+  height: 116px;
+  font-size: 12px;
+  color: #666;
+  background: #333; }
+
+.footer-feature {
+  width: 1190px;
+  height: 116px;
+  margin: auto; }
+
+.footer-feature ul {
+  width: 1190px;
+  height: 27px;
+  font-size: 18px;
+  margin: 46px 0 42px;
+  float: left; }
+
+.footer-feature li {
+  float: left; }
+
+.footer-feature img {
+  width: 27px;
+  height: 27px; }
+
+.footer-feature a {
+  float: right;
+  display: block;
+  font-size: 18px;
+  color: #fff;
+  margin: 0 40px 0 10px; }
+
+.footer-help {
+  width: 100%;
+  height: 476px;
+  background-color: #333333;
+  border-top: 1px solid #FFFAFA; }
+
+.footer-help-1 {
+  width: 1190px;
+  height: 476px;
+  margin: auto;
+  overflow: hidden; }
+
+.footer-help-d {
+  width: 1190px;
+  height: 130px;
+  font-size: 12px;
+  color: #fff;
+  margin-top: 25px; }
+
+.footer-help-d > li {
+  float: left;
+  margin-right: 70px;
+  height: 130px;
+  line-height: 32px; }
+
+.footer-help-d img {
+  width: 17px;
+  height: 13px; }
+
+.footer-help-d a {
+  color: #666; }
+
+.footer-help-d a:hover {
+  color: #fff; }
+
+.national {
+  width: 1190px;
+  height: 206px; }
+
+.national-ul {
+  width: 408px;
+  height: 47px; }
+
+.national-ul > li {
+  float: left;
+  margin-top: 140px;
+  margin-right: 8px; }
+
+.national-ul li:nth-child(1) {
+  margin-left: 30px; }
+
+.national-ul img {
+  width: 116px;
+  height: 47px; }
+
+.national-ul-2 {
+  width: 500px;
+  height: 152px;
+  margin-top: 34px;
+  margin-left: 132px;
+  font-size: 12px;
+  color: #fff; }
+
+.national-ul-2 > li {
+  float: left;
+  height: 152px;
+  position: relative; }
+
+.national-ul-2 li:nth-child(1) {
+  margin-right: 25px; }
+
+.national-ul-img {
+  width: 120px;
+  height: 120px; }
+
+.national-ul-2 .sp1 {
+  position: absolute;
+  top: 135px;
+  left: 4px; }
+
+.national-ul-2 .sp2 {
+  position: absolute;
+  top: 135px;
+  left: 30px; }
+
+.f-content ul {
+  width: 1190px;
+  height: 20px;
+  font-size: 12px;
+  color: #666;
+  overflow: hidden;
+  margin: 20px 0; }
+
+.f-content li {
+  width: 71px;
+  height: 20px;
+  float: left;
+  text-align: center;
+  border-right: 1px solid #666; }
+
+.f-content-2 {
+  font-size: 12px;
+  color: #FFF; }
+
+.f-content a {
+  color: #fff; }
+
+.f-content-2 a {
+  color: #fff; }
